@@ -1,33 +1,23 @@
-
 class Solution {
   public:
     int isValid(string str) {
         // code here
-        string num="";
-        int cnt=0;
-        int n = str.size();
-        for(int i=0; i<n; i++){
-            if(str[i!='.'){
-                if(num.empty() && str[i]=='0')
-                    return false;
-                num += str[i];
+        int temp=-1,count=0,index=-1;
+        for(int i=0;i<str.length();i++){
+            if(str[i]=='.'){
+                count++;
+                if(temp<0 or temp>255)return false;
+                if(temp!=0 and str[index+1]=='0')return false;
+                temp=-1;
+                index=i;
             }
             else{
-                if(num.empty())
-                    return false;
-                int n = stoi(num);
-                if(n<0 || n>255)
-                    return false;
-                num = "";
-                cnt++;
+                if(temp==-1)temp=0;
+                temp=temp*10+(str[i]-'0');
             }
         }
-        int n=-1;
-        if(!num.empty())
-            n = stoi(num);
-        if(n<0 || n>255)
-            return false;
-        cnt++;
-        return cnt==4;
+        if(temp<0 or temp>255 or count!=3)return false;
+        if(temp!=0 and str[index+1]=='0')return false;
+        return true;
     }
 };
