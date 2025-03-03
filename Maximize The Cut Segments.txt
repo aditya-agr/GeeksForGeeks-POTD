@@ -1,0 +1,81 @@
+🌟 𝗘𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗡𝗲𝘄𝘀! 🌟
+
+𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗶𝘀 𝗿𝗼𝗹𝗹𝗶𝗻𝗴 𝗼𝘂𝘁 𝗙𝗥𝗘𝗘 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗖𝗼𝘂𝗿𝘀𝗲𝘀 𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝗔𝗜, 𝗠𝗟, 𝗖𝗹𝗼𝘂𝗱, 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲! 🚀
+
+𝗡𝗼 𝗳𝗲𝗲𝘀, 𝗻𝗼 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗻𝗼 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗵𝗮𝘀𝘀𝗹𝗲𝘀—𝗷𝘂𝘀𝘁 𝗱𝗶𝘃𝗲 𝗿𝗶𝗴𝗵𝘁 𝗶𝗻𝘁𝗼 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. 📚✨
+
+These courses come with engaging video lectures, helpful tutorials, and easy-to-follow notes. Whether you’re a beginner or looking to level up your skills, this is your chance! 🎓👩‍💻
+
+𝗦𝗼, 𝘄𝗵𝘆 𝘄𝗮𝗶𝘁? 𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝘁𝗼𝗱𝗮𝘆! 🌐💡
+
+1. Microsoft Azure Fundamentals
+- Course AZ-900T00
+- 24-Hour Course 
+- Course Link:https://learn.microsoft.com/training/courses/az-900t00?wt.mc_id=studentamb_244366
+
+2. Developing Solutions for Microsoft Azure
+- Course AZ-204T00
+- 120-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/az-204t00?wt.mc_id=studentamb_244366
+
+3. Microsoft Azure Administrator
+- Course AZ-104T00
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/az-104t00?wt.mc_id=studentamb_244366
+
+4. Configuring and Operating Microsoft Azure Virtual Desktop
+- Course AZ-140
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/az-140t00?wt.mc_id=studentamb_244366
+
+5. Designing Microsoft Azure Infrastructure Solutions
+- Course AZ-305T00
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/az-305t00?wt.mc_id=studentamb_244366
+
+6. Microsoft Azure Data Fundamentals
+- Course DP-900T00
+- 24-Hour Course 
+- Course Link:https://learn.microsoft.com/training/courses/dp-900t00?wt.mc_id=studentamb_244366
+
+7. Microsoft Azure AI Fundamentals
+- Course AI-900T00
+- 24-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/ai-900t00?wt.mc_id=studentamb_244366
+
+8. Designing and Implementing a Microsoft Azure AI Solution
+- Course AI-102T00
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/ai-102t00?wt.mc_id=studentamb_244366
+
+9. Microsoft Power BI Data Analyst
+- Course PL-300T00
+- 24-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/pl-300t00?wt.mc_id=studentamb_244366
+
+10. Microsoft Security, Compliance, and Identity Fundamentals
+- Course SC-900T00
+- 24-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/sc-900t00?wt.mc_id=studentamb_244366
+
+11. Data Engineering on Microsoft Azure
+- Course DP-203T00
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/dp-203t00?wt.mc_id=studentamb_244366
+
+12. Microsoft Security Operations Analyst
+- Course SC-200T00
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/sc-200t00?wt.mc_id=studentamb_244366
+
+13. Designing and Implementing Microsoft Azure Networking Solutions
+- Course AZ-700T00
+- 72-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/az-700t00?wt.mc_id=studentamb_244366
+
+14. Designing and implementing a data science solution on Azure
+- Course DP-100T01
+- 96-Hour Course
+- Course Link:https://learn.microsoft.com/training/courses/dp-100t01?wt.mc_id=studentamb_244366
+
+𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻𝘆 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗼𝗿 𝗻𝗲𝗲𝗱 𝗴𝘂𝗶𝗱𝗮𝗻𝗰𝗲, 𝗷𝘂𝘀𝘁 𝗴𝗶𝘃𝗲 𝗺𝗲 𝗮 𝘀𝗵𝗼𝘂𝘁—𝗜’𝗺 𝗵𝗲𝗿𝗲 𝘁𝗼 𝗮𝘀𝘀𝗶𝘀𝘁! 😊👍
