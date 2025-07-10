@@ -32,3 +32,60 @@ class Solution {
         return res;
     }
 };
+
+
+class TrieNode{
+  public:
+    vector<TrieNode*> children;
+    bool end;
+    
+    TrieNode(){
+        children.resize(26);
+        for(int i=0; i<26; i++)
+            this->children[i] = NULL;
+        this->end = false;
+    }
+};
+
+class Solution {
+  public:
+    TrieNode *root;
+    void insert(string &s){
+        TrieNode *crawler = root;
+        for(char c : s){
+            if(crawler->children[c-'a'] == NULL)
+                crawler->children[c-'a'] = new TrieNode();
+            crawler = crawler->children[c-'a'];
+        }
+        crawler->end = true;
+    }
+    bool search(string &s){
+        TrieNode *crawler = root;
+        for(char c : s){
+            crawler = crawler->children[c-'a'];
+            if(crawler->end == false)
+                return false;
+        }
+        return true;
+    }
+    string longestString(vector<string> &words) {
+        // code here
+        root = new TrieNode();
+        for(string s : words)
+            insert(s);
+        
+        string res = "";
+        int mxlen = 0;
+        for(string s : words){
+            if(search(s)){
+                if(s.length() > mxlen){
+                    mxlen = s.length();
+                    res = s;
+                }
+                if(s.length() == mxlen)
+                    res = min(s, res);
+            }
+        }
+        return res;
+    }
+};
