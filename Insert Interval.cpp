@@ -3,26 +3,24 @@ class Solution {
     vector<vector<int>> insertInterval(vector<vector<int>> &intervals,
                                        vector<int> &newInterval) {
         // code here
-        vector<vector<int>> res;
-        int st = newInterval[0], ed = newInterval[1];
-        bool merged = false;
-        for(vector<int> x : intervals){
-            if(x[1] < newInterval[0])
-                res.push_back(x);
-            else if(x[0] > newInterval[1]){
-                if(!merged){
-                    res.push_back({st, ed});
-                    merged = true;
-                }
-                res.push_back(x);
-            }
-            else{
-                st = min(st, x[0]);
-                ed = max(ed, x[1]);
+        int n = intervals.size();
+        for(int i=0; i<n; i++){
+            if(intervals[i][0] >= newInterval[0]){
+                intervals.insert(intervals.begin()+i, newInterval);
+                break;
             }
         }
-        if(!merged)
-            res.push_back({st, ed});
+        if(intervals.size() == n)
+            intervals.push_back(newInterval);
+            
+        vector<vector<int>> res;
+        res.push_back(intervals[0]);
+        for(int i=0; i<=n; i++){
+            if(res.back()[1] >= intervals[i][0])
+                res.back()[1] = max(res.back()[1], intervals[i][1]);
+            else
+                res.push_back(intervals[i]);
+        }
         return res;
     }
 };
