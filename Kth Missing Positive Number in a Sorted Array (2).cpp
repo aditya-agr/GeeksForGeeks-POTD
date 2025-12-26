@@ -1,0 +1,18 @@
+class Solution {
+  public:
+    int kthMissing(vector<int> &arr, int k) {
+        // code here
+        int n = arr.size();
+        int l=0, h=n-1;
+        while(l <= h){
+            int mid = l + (h-l)/2;
+            int miss = arr[mid]-(mid+1);
+            if(miss < k)
+                l = mid+1;
+            else
+                h = mid-1;
+        }
+        int missH = arr[h]- (h+1);
+        return arr[h] + (k-missH);
+    }
+};
